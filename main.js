@@ -15,3 +15,14 @@ let string = "27/04/1995";
 let Is_married = false;
 let FAVORITEFOOD = "pancakes";
 let x = "cola";
+
+/* My corrections */
+
+let firstName = "Rosa";
+let LastName = "Dorsey";
+let age = 27;
+let city = "New York";
+let string = "27/04/1995";
+let isMarried = false;
+let favoriteFood = "pancakes";
+let drink = "cola";
